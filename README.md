@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙏, I'm Piyush Upadhyay</h1>
 <h3 align="center">A Full Stack Developer based in India</h3>
-<img align="right" alt="hustle" width="450" src="https://cdn.dribbble.com/users/722246/screenshots/2273454/night_hill.gif">
+<img align="right" alt="hustle" width="420" src="https://cdn.dribbble.com/users/722246/screenshots/2273454/night_hill.gif">
 
 <p align="left"> <a href="https://twitter.com/piyushstwts" target="blank"><img src="https://img.shields.io/twitter/follow/piyushstwts?logo=twitter&style=for-the-badge" alt="piyushstwts" /></a> </p>
 
