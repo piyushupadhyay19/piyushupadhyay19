@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Biddy](https://github.com/piyushupadhyay19/biddyFrontend)
 
-- 🌱 I’m currently learning **Node, Rust**
+- 🌱 I’m currently learning **Express, Rust**
 
 - 👨‍💻 All of my projects are available at [https://upadhyaypiyush.tech](https://upadhyaypiyush.tech)
 
