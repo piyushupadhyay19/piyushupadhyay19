@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node, Rust**
 
-- 👨‍💻 All of my projects are available at [https://piyushupadhyay.me](https://piyushupadhyay.me)
+- 👨‍💻 All of my projects are available at [https://upadhyaypiyush.tech](https://upadhyaypiyush.tech)
 
 - 💬 Ask me about **Python, Django and React Native**
 
