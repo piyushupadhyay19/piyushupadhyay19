@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **piyushupadhyaycoc@gmail.com**
 
-- 📄 Know about my experiences [https://google.com](https://google.com)
+- 📄 Know about my experiences [https://upadhyaypiyush.tech](https://upadhyaypiyush.tech)
 
 - ⚡ Fun fact **I don't watch anime.**
 
