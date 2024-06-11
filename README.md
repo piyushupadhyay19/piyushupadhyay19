@@ -3,7 +3,7 @@
 <img align="right" alt="hustle" width="420" src="https://cdn.dribbble.com/users/722246/screenshots/2273454/night_hill.gif">
 
 
-- 🔭 I’m currently working on [Biddy](https://github.com/piyushupadhyay19/biddyFrontend)
+- 🔭 I’m currently working on [ADEYA Wallet](https://github.com/credebl/adeya-wallet)
 
 - 🌱 I’m currently learning **Express, Rust**
 
@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/piyushstwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushstwts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/upadhyaykpiyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
