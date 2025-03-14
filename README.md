@@ -3,13 +3,13 @@
 <img align="right" alt="hustle" width="420" src="https://cdn.dribbble.com/users/722246/screenshots/2273454/night_hill.gif">
 
 
-- 🔭 I’m currently working on [ADEYA Wallet](https://github.com/credebl/adeya-wallet)
+- 🔭 I’m currently working on [Airavata Django Portal](https://github.com/apache/airavata-django-portal)
 
-- 🌱 I’m currently learning **Express, Rust**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://upadhyaypiyush.tech](https://upadhyaypiyush.tech)
 
-- 💬 Ask me about **Python, Django and React Native**
+- 💬 Ask me about **Python, Django, React Native and SQL**
 
 - 📫 Reach me at **piyushupadhyaycoc@gmail.com**
 
